@@ -1,0 +1,11 @@
+C:\Users\Leslie Walker\source\repos\Homework 5-29\Homework 5-29\obj\Debug\netcoreapp2.1\Homework 5-29.csprojAssemblyReference.cache
+C:\Users\Leslie Walker\source\repos\Homework 5-29\Homework 5-29\obj\Debug\netcoreapp2.1\Homework 5-29.csproj.CoreCompileInputs.cache
+C:\Users\Leslie Walker\source\repos\Homework 5-29\Homework 5-29\obj\Debug\netcoreapp2.1\Homework 5-29.AssemblyInfoInputs.cache
+C:\Users\Leslie Walker\source\repos\Homework 5-29\Homework 5-29\obj\Debug\netcoreapp2.1\Homework 5-29.AssemblyInfo.cs
+C:\Users\Leslie Walker\source\repos\Homework 5-29\Homework 5-29\bin\Debug\netcoreapp2.1\Homework 5-29.deps.json
+C:\Users\Leslie Walker\source\repos\Homework 5-29\Homework 5-29\bin\Debug\netcoreapp2.1\Homework 5-29.runtimeconfig.json
+C:\Users\Leslie Walker\source\repos\Homework 5-29\Homework 5-29\bin\Debug\netcoreapp2.1\Homework 5-29.runtimeconfig.dev.json
+C:\Users\Leslie Walker\source\repos\Homework 5-29\Homework 5-29\bin\Debug\netcoreapp2.1\Homework 5-29.dll
+C:\Users\Leslie Walker\source\repos\Homework 5-29\Homework 5-29\bin\Debug\netcoreapp2.1\Homework 5-29.pdb
+C:\Users\Leslie Walker\source\repos\Homework 5-29\Homework 5-29\obj\Debug\netcoreapp2.1\Homework 5-29.dll
+C:\Users\Leslie Walker\source\repos\Homework 5-29\Homework 5-29\obj\Debug\netcoreapp2.1\Homework 5-29.pdb
